@@ -44,3 +44,5 @@ Also, you have to **comment one** and to **uncomment two** blocks of code in the
 
 ## Make an iOS-Counterpart of the School App
 You can easily make an iOS-Counterpart - the _data.xml_ is completely identical.
+
+![MySchoolWallpaper](https://raw.githubusercontent.com/justfaraway42/MySchoolPocket-android/master/MSP_wallpaper.png)
