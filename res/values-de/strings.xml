@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MySchoolPocket</string>
+	<string name="app_version">App-Version</string>
+	<string name="app_iconDescription">App Icon</string>
+	<string name="app_releasenotes">Programmierung und Design:\nJustus Dög\n\nDanke für die Unterstützung:\nMike Richter,\nEberhart Calov,\nFelix Möbius,\nAndreas Krauß\n\n© 2014 JustProductions\nEuropäisches Gymnasium Waldenburg\n\nTHIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+	
+	<string name="news">Neuigkeiten</string>
+	<string name="timetables">Stundenpläne</string>
+	<string name="representation">Vertretung</string>
+	<string name="info">Info</string>
+	<string name="settings">Einstellungen</string>
+	
+	<string name="empty_news">Es wurden noch keine Neuigkeiten geladen.</string>
+	<string name="today">Heute</string>
+	<string name="ok">OK</string>
+	
+	<string name="schools_chooseSchool">Wähle Deine Schule</string>
+	<string name="schools_chooseClass">Wähle Deine Klasse</string>
+	
+	<string name="plans_downloadTimetable">klicken, um Stundenplan zu laden</string>
+	<string name="plans_downloadRepresentation">klicken, um Vertretungsplan zu laden</string>
+	<string name="plans_download">Herunterladen…</string>
+	<string name="plans_allClasses">Alle Klassen</string>
+	<string name="plans_class">Klasse</string>
+	<string name="plans_lastUpdated">zuletzt aktualisiert:</string>
+	<string name="plans_restWeek">Rest der Woche</string>
+	<string name="plans_weekOverview">Wochenübersicht</string>
+	
+	<string name="news_load">Lade Neuigkeiten…</string>
+	<string name="news_reload">aktualisieren</string>
+	<string name="news_allRead">alle gelesen markieren</string>
+	<string name="news_allUnread">alle ungelesen markieren</string>
+	<string name="news_openBrowser">Artikel im Browser öffnen</string>
+	<string name="news_share">Teilen…</string>
+	
+	<string name="info_call">Schule anrufen</string>
+	<string name="info_web">Website besuchen</string>
+	<string name="info_mail">Mail schreiben</string>
+	<string name="info_navigation">Zur Schule navigieren</string>
+	<string name="info_mailSignature">Gesendet aus der EGW Android-App</string>
+	
+	<string name="dialog_noconnection_title">Verbindung fehlgeschlagen</string>
+	<string name="dialog_noconnection_text">Diese Anwendung benötigt eine Netzverbindung. Bitte aktivieren Sie mobile Daten oder Wi-Fi, um Daten herunterzuladen.</string>
+	<string name="dialog_noconnection_iconDescription">Warnzeichen</string>
+	
+	<string name="preferences_category_school">Schule wechseln</string>
+	
+	<string name="preferences_reloadOnStartup_title">Neuladen beim Start</string>
+	<string name="preferences_maximumArticles_title">Max. gespeicherte Artikel</string>
+	<string name="preferences_manualDownload_title">manueller Download</string>
+	<string name="preferences_showReloadButtonInTimetables_summary">Stundenpläne müssen manuell über das Symbol nachgeladen werden</string>
+	<string name="preferences_classLevel_title">zeige Klasse</string>
+	<string name="preferences_showReloadButtonInRepresentation_summary">Vertretungspläne müssen manuell über das Symbol nachgeladen werden</string>
+	<string name="preferences_showTodayFirst_title">heutiger zuerst</string>
+	<string name="preferences_showTodayFirst_summary">Heutiger Vertretungsplan wird ganz oben angezeigt</string>
+	<string name="preferences_changeSchool_title">Wechsel Deine Schule</string>
+	<string name="preferences_changeSchool_warning_title">Warnung</string>
+	<string name="preferences_changeSchool_warning_summary">Dies wird alle Daten löschen und die App neu starten.</string>
+	<string name="preferences_about_title">Über diese App</string>
+	
+	<string name="preferences_array_class5">Klasse 5</string>
+	<string name="preferences_array_class6">Klasse 6</string>
+	<string name="preferences_array_class7">Klasse 7</string>
+	<string name="preferences_array_class8">Klasse 8</string>
+	<string name="preferences_array_class9">Klasse 9</string>
+	<string name="preferences_array_class10">Klasse 10</string>
+	<string name="preferences_array_class11">Klasse 11</string>
+	<string name="preferences_array_class12">Klasse 12</string>
+	
+	
+	<string name="error">Error</string>
+	<string name="ArrayIndexOutOfBoundsException">ArrayIndexOutOfBoundsException</string>
+	<string name="ClassNotFoundException">ClassNotFoundException</string>
+	<string name="IndexOutOfBoundsException">IndexOutOfBoundsException</string>
+	<string name="NullPointerException">NullPointerException</string>
+	<string name="NumberFormatException">NumberFormatException</string>
+	<string name="RuntimeException">RuntimeException</string>
+	<string name="Exception">Exception</string>
+	<!-- R.string.NAME -->
+</resources>

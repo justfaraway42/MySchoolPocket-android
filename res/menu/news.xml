@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+        <item android:id="@+id/reload" android:icon="@drawable/ic_menu_refresh" android:title="@string/news_reload"></item>
+    </group><group android:id="@+id/group2" >
+        <item
+            android:id="@+id/allRead"
+            android:icon="@drawable/ic_menu_allread"
+            android:title="@string/news_allRead">
+        </item>
+        <item
+            android:id="@+id/allUnread"
+            android:icon="@drawable/ic_menu_allunread"
+            android:title="@string/news_allUnread">
+        </item>
+    </group>
+
+</menu>

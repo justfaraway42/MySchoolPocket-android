@@ -1,0 +1,83 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/news" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="reloadOnStartup"
+            android:title="@string/preferences_reloadOnStartup_title"/>
+
+        <ListPreference
+            android:defaultValue="10"
+            android:entries="@array/articles"
+            android:entryValues="@array/articles"
+            android:key="maximumArticles"
+            android:summary=""
+            android:title="@string/preferences_maximumArticles_title" />
+        <!-- defaultValue ist nur für die Vorauswahl in der Liste - sie setzt noch keinen Wert => "null" (NumberFormatException: unable to parse 'null' as integer) -->
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/timetables" >
+		<ListPreference
+            android:defaultValue="10"
+            android:entries="@array/classes_names"
+            android:entryValues="@array/classes_values"
+            android:key="classLevel"
+            android:summary=""
+            android:title="@string/preferences_classLevel_title" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="showReloadButtonInTimetables"
+            android:summary="@string/preferences_showReloadButtonInTimetables_summary"
+            android:title="@string/preferences_manualDownload_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/representation" >
+         <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="showTodayFirst"
+            android:summary="@string/preferences_showTodayFirst_summary"
+            android:title="@string/preferences_showTodayFirst_title" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="showReloadButtonInRepresentation"
+            android:summary="@string/preferences_showReloadButtonInRepresentation_summary"
+            android:title="@string/preferences_manualDownload_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/preferences_category_school" >
+        <Preference
+            android:key="changeSchool"
+            android:title="@string/preferences_changeSchool_title" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/preferences_about_title" >
+        <Preference
+            android:key="aboutApp"
+            android:title="@string/preferences_about_title" />
+    </PreferenceCategory>
+    <!-- Auskommentieren fuer erweiterte Einstellungen, wie besipielsweise das kopieren der Datenbanken-->
+    <!-- <PreferenceCategory android:title="Developer Settings" >
+        <PreferenceScreen
+            android:key="developerPreferencePane"
+            android:summary="This are Beta Preferences (for advanced users)"
+            android:title="Developer Settings" >
+            <Preference
+                android:key="copySchoolsDatabase"
+                android:summary="copy Database to &apos;/sdcard/EGW/schools.sqlite&apos;"
+                android:title="Copy Schools-Database" />
+            <Preference
+                android:key="deleteNewsDatabase"
+                android:summary="delete SQL-Lite Databse"
+                android:title="Delete News-Database" />
+            <Preference
+                android:key="copyNewsDatabase"
+                android:summary="copy Database to &apos;/sdcard/EGW/news.sqlite&apos;"
+                android:title="Copy News-Databese" />
+            <Preference
+                android:key="tt_delete"
+                android:summary="delete PDFs stored in &apos;/sdcard/EGW/timetables/&apos;"
+                android:title="Delete Timetable Plans" />
+            <Preference
+                android:key="rp_delete"
+                android:summary="delete PDFs stored in &apos;/sdcard/EGW/representation/&apos;"
+                android:title="Delete Representation Plans" />
+        </PreferenceScreen>
+    </PreferenceCategory>-->
+
+</PreferenceScreen>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">MySchoolPocket</string>
+	<string name="app_version">App-版本</string>
+	<string name="app_iconDescription">App 图像</string>
+	<string name="app_releasenotes">Programmierung und Design:\nJustus Dög\n\nÜbersetzung:\nBingqian Wu\n\nDanke für die Unterstützung:\nMike Richter,\nEberhart Calov,\nFelix Möbius,\nAndreas Krauß\n\n© 2014 JustProductions\nEuropäisches Gymnasium Waldenburg\n\nTHIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+	
+	<string name="news">新消息</string>
+	<string name="timetables">课程表</string>
+	<string name="representation">带课表</string>
+	<string name="info">信息</string>
+	<string name="settings">设置</string>
+	
+	<string name="empty_news">没有新信息被下载。</string>
+	<string name="today">今天</string>
+	<string name="ok">OK</string>
+	
+	<string name="schools_chooseSchool">选择您的学校</string>
+	<string name="schools_chooseClass">选择您的班级</string>
+	
+	<string name="plans_downloadTimetable">点击此处可下载课程表</string>
+	<string name="plans_downloadRepresentation">点击此处可下载带课表</string>
+	<string name="plans_download">下载中。。。</string>
+	<string name="plans_class">班级</string>
+	<string name="plans_allClasses">所有班级</string>
+	<string name="plans_lastUpdated">最后更新的时间：</string>
+	<string name="plans_restWeek">剩下的日子</string>
+	<string name="plans_weekOverview">一周预览表</string>
+	
+	<string name="news_load">下载中。。。</string>
+	<string name="news_reload">刷新</string>
+	<string name="news_allRead">标记所有读过的</string>
+	<string name="news_allUnread">标记所有未读过的</string>
+	<string name="news_openBrowser">文章于浏览器中打开</string>
+	<string name="news_share">分享。。。</string>
+	
+	<string name="info_call">给学校致电</string>
+	<string name="info_web">访问主页</string>
+	<string name="info_mail">写邮件</string>
+	<string name="info_navigation">定位去学校</string>
+	<string name="info_mailSignature">来源于 EGW 安卓-App</string>
+	
+	<string name="dialog_noconnection_title">连接失败</string>
+	<string name="dialog_noconnection_text">这个应用用于网络连接。 您需要激活手机上网功能或者是无线上网功能。</string>
+	<string name="dialog_noconnection_iconDescription">警告标示</string>
+	
+	<string name="preferences_category_school">换学校</string>
+
+	<string name="preferences_reloadOnStartup_title">打开刷新</string>
+	<string name="preferences_maximumArticles_title">最多被保存文件数量</string>
+	<string name="preferences_classLevel_title">显示班级</string>
+	<string name="preferences_manualDownload_title">刷新键</string>
+	<string name="preferences_showReloadButtonInTimetables_summary">课程表必须要在手动选择的情况下下载</string>
+	<string name="preferences_showReloadButtonInRepresentation_summary">代课表必须要在手动选择的情况下下载</string>
+	<string name="preferences_showTodayFirst_title">首先显示本日</string>
+	<string name="preferences_showTodayFirst_summary">如果您操作此项内容将会使本日的课程安排表显示在最前面</string>
+	<string name="preferences_changeSchool_title">换学校</string>
+	<string name="preferences_changeSchool_warning_title">警告</string>
+	<string name="preferences_changeSchool_warning_summary">这样会使所有文件被删除 然后重新开启您的App。</string>
+	<string name="preferences_about_title">关于 App</string>
+	
+	<string name="preferences_array_class5">五年级</string>
+	<string name="preferences_array_class6">六年级</string>
+	<string name="preferences_array_class7">七年级</string>
+	<string name="preferences_array_class8">八年级</string>
+	<string name="preferences_array_class9">九年级</string>
+	<string name="preferences_array_class10">十年级</string>
+	<string name="preferences_array_class11">十一年级</string>
+	<string name="preferences_array_class12">十二年级</string>
+	
+	<string name="error">Error</string>
+	<string name="ArrayIndexOutOfBoundsException">ArrayIndexOutOfBoundsException</string>
+	<string name="ClassNotFoundException">ClassNotFoundException</string>
+	<string name="IndexOutOfBoundsException">IndexOutOfBoundsException</string>
+	<string name="NullPointerException">NullPointerException</string>
+	<string name="NumberFormatException">NumberFormatException</string>
+	<string name="RuntimeException">RuntimeException</string>
+	<string name="Exception">Exception</string>
+	<!-- R.string.NAME -->
+</resources>

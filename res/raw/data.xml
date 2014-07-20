@@ -1,0 +1,62 @@
+<data>
+    <state name="Sachsen">
+        <community name="Waldenburg">
+
+            <school name="Europäisches Gymnasium Waldenburg">
+                <feed><![CDATA[http://www.eurogymnasium-waldenburg.de/de/presse/unsere-news?format=feed]]></feed>
+                <timetables_names><![CDATA[Klasse 5;Klasse 6;Klasse 7;Klasse 8;Klasse 9;Klasse 10;Klasse 11;Klasse 11 (Schienenbelegung);Klasse 12;Klasse 12 (Schienenbelegung)]]></timetables_names>
+                <timetables_classes><![CDATA[5;6;7;8;9;10;11;11;12;12]]></timetables_classes>
+                <timetables_urls><![CDATA[http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan05.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan06.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan07.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan08.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan09.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan10.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan12.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung12.pdf]]></timetables_urls>
+                <representation_urls><![CDATA[http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungMontag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungDienstag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungMittwoch.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungDonnerstag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungFreitag.pdf]]></representation_urls>
+                <phone_number><![CDATA[037608 4020100]]></phone_number>
+                <website><![CDATA[http://www.eurogymnasium-waldenburg.de]]></website>
+                <email_address><![CDATA[schulleitung@eurogymnasium-waldenburg.de]]></email_address>
+                <address><![CDATA[Europäisches Gymnasium, Altenburger Str. 44a, 08396 Waldenburg]]></address>
+            </school>
+        </community>
+
+        <community name="Meerane">
+            <school name="Europäisches Gymnasium Meerane">
+                <feed><![CDATA[http://www.eurogymnasium-meerane.de/de/presse/unsere-news?format=feed]]></feed>
+                <timetables_names><![CDATA[Klasse 5;Klasse 6;Klasse 7;Klasse 8;Klasse 9;Klasse 10;Klasse 11]]></timetables_names>
+                <timetables_classes><![CDATA[5;6;7;8;9;10;11]]></timetables_classes>
+                <timetables_urls><![CDATA[http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl5.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl6.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl7.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl8.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl9.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl10.pdf;http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/Kl11.pdf]]></timetables_urls>
+                <representation_urls><![CDATA[http://www.eurogymnasium-meerane.de/egm_content/Stunden_Vertretungsplan/VPlanKlasse.pdf]]></representation_urls>
+                <phone_number><![CDATA[03764 2331]]></phone_number>
+                <website><![CDATA[http://www.eurogymnasium-meerane.de]]></website>
+                <email_address><![CDATA[schulleitung@eurogymnasium-meerane.de]]></email_address>
+                <address><![CDATA[Europäisches Gymnasium, Pestalozzistraße 25, 08393 Meerane]]></address>
+            </school>
+        </community>
+
+<community name="Chemnitz">
+    <school name="BSZ I">
+        <feed><![CDATA[http://www.eurogymnasium-waldenburg.de/de/presse/unsere-news?format=feed]]></feed>
+        <timetables_names><![CDATA[Klasse 5;Klasse 6;Klasse 7;Klasse 8;Klasse 9;Klasse 10;Klasse 11;Klasse 11 (Schienenbelegung);Klasse 12;Klasse 12 (Schienenbelegung)]]></timetables_names>
+        <timetables_classes><![CDATA[5;6;7;8;9;10;11;11;12;12]]></timetables_classes>
+        <timetables_urls><![CDATA[http://www.bszi.wirtschaft-chemnitz.de/plan/index.php?action=downloadfile&filename=BS_1.Ausbildungsjahr_1.HJ.pdf&directory=Stundenpl%E4ne%20Schuljahr%202013_14_1.HJ/Berufsschule&;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan06.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan07.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan08.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan09.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan10.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan12.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung12.pdf]]></timetables_urls>
+        <representation_urls><![CDATA[http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungMontag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungDienstag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungMittwoch.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungDonnerstag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungFreitag.pdf]]></representation_urls>
+        <phone_number><![CDATA[0371400580]]></phone_number>
+        <website><![CDATA[http://www.wirtschaft-chemnitz.de]]></website>
+        <email_address><![CDATA[bsz.c6c@web.de]]></email_address>
+        <address><![CDATA[Berufliches Schulzentrum für Wirtschaft I, Lutherstraße 2, 09126 Chemnitz]]></address>
+    </school>
+</community>
+    </state>
+
+    <state name="Hello State">
+        <community name="Hello Community">
+            <school name="Hello School">
+                <feed><![CDATA[http://www.eurogymnasium-waldenburg.de/de/presse/unsere-news?format=feed]]></feed>
+                <timetables_names><![CDATA[Klasse 5;Klasse 6;Klasse 7;Klasse 8;Klasse 9;Klasse 10;Klasse 11;Klasse 11 (Schienenbelegung);Klasse 12;Klasse 12 (Schienenbelegung)]]></timetables_names>
+                <timetables_classes><![CDATA[5;6;7;8;9;10;11;11;12;12]]></timetables_classes>
+                <timetables_urls><![CDATA[http://www.bszi.wirtschaft-chemnitz.de/plan/index.php?action=downloadfile&filename=BS_1.Ausbildungsjahr_1.HJ.pdf&directory=Stundenpl%E4ne%20Schuljahr%202013_14_1.HJ/Berufsschule&;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan06.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan07.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan08.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan09.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan10.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung11.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/stdplan12.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/schienenbelegung12.pdf]]></timetables_urls>
+                <representation_urls><![CDATA[http://www.muster.de/VertretungMontag.pdf;http://www.muster.de/VertretungDienstag.pdf;http://www.muster.de/egw_content/Stunden_Vertretungsplan/VertretungMittwoch.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungDonnerstag.pdf;http://www.eurogymnasium-waldenburg.de/egw_content/Stunden_Vertretungsplan/VertretungFreitag.pdf]]></representation_urls>
+                <phone_number><![CDATA[012345 6789]]></phone_number>
+                <website><![CDATA[http://www.muster-schule.de]]></website>
+                <email_address><![CDATA[schulleitung@musterschule.de]]></email_address>
+                <address><![CDATA[Musterschule, Musterstraße 1, 01234 Musterhausen]]></address>
+            </school>
+        </community>
+    </state>
+</data>

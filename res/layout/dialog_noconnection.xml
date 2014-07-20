@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:contentDescription="@string/dialog_noconnection_iconDescription"
+        android:id="@+id/noconnectiondialog_imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignBottom="@+id/noconnectiondialog_textView"
+        android:layout_marginLeft="7.5dp"
+        android:layout_marginRight="7.5dp"
+        android:src="@drawable/ic_dialog_warning" />
+
+    <TextView
+        android:id="@+id/noconnectiondialog_textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="15dp"
+        android:layout_toRightOf="@+id/noconnectiondialog_imageView"
+        android:text="@string/dialog_noconnection_text" />
+
+    <Button
+        android:id="@+id/noconnectiondialog_button"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/noconnectiondialog_textView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/ok" />
+
+</RelativeLayout>
+
+<!--         android:src="@drawable/ic_tab_news" /> -->

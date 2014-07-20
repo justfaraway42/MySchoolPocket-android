@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+	<ImageView
+        android:contentDescription="@string/app_iconDescription"
+        android:id="@+id/aboutdialog_imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="75dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="top"
+        android:layout_marginBottom="15dp"
+        android:src="@drawable/ic_launcher" />
+
+    <ScrollView
+        android:id="@+id/aboutdialog_scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/aboutdialog_imageView" >
+
+        <TextView
+            android:id="@+id/aboutdialog_textView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_releasenotes" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/aboutdialog_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/aboutdialog_scrollView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/ok" />
+
+</RelativeLayout>
