@@ -5,7 +5,7 @@ This repository contains the source code for the MySchoolPocket Android app. An 
 
 ## License
 
-This app is released under the MIT license, with all related content including icons, images and translations.
+This app is released under the MIT license, with all related content.
 
 ## Working Example App
 [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.justproductions.egw)
