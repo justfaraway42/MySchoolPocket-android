@@ -1,7 +1,14 @@
 MySchoolPocket Android App
 ==========================
 
-This repository contains the source code for the MySchoolPocket Android app. An app with which you can display news, timetables and representation plans from a school and save them offline. Also you can easily call, mail and navigate to the school.
+## Summary and Screenshots
+
+This repository contains the source code for the MySchoolPocket Android app. An app with which you can display news, timetables and representation plans from a school and save them offline. Also you can easily call, mail and navigate to the school. This app is localized in English, German and Simplified Chinese.
+
+![MySchoolPocket_news](https://raw.githubusercontent.com/justfaraway42/MySchoolPocket-android/master/screenshots/1.png)
+![MySchoolPocket_timetables](https://raw.githubusercontent.com/justfaraway42/MySchoolPocket-android/master/screenshots/2.png)
+![MySchoolPocket_representation](https://raw.githubusercontent.com/justfaraway42/MySchoolPocket-android/master/screenshots/3.png)
+![MySchoolPocket_info](https://raw.githubusercontent.com/justfaraway42/MySchoolPocket-android/master/screenshots/4.png)
 
 ## License
 
