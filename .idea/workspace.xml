@@ -27,7 +27,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: de.justproductions.myschoolpocket" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de274c83-3833-427b-adbf-33b61ca75e9b" name="Default" comment="" />
+    <list default="true" id="de274c83-3833-427b-adbf-33b61ca75e9b" name="Default" comment="add Screenshots">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="EGW.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,7 +143,7 @@
       <file leaf-file-name="data.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/raw/data.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="38" selection-start="6945" selection-end="6945" vertical-scroll-proportion="0.90716183" vertical-offset="423" max-vertical-offset="1005">
+            <state line="48" column="0" selection-start="6554" selection-end="6554" vertical-scroll-proportion="0.78364116" vertical-offset="423" max-vertical-offset="1005">
               <folding />
             </state>
           </provider>
@@ -458,7 +460,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -602,6 +604,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="myschoolpocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySchoolPocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySchoolPocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screenshots" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -794,6 +810,7 @@
       <recent name="$PROJECT_DIR$/res/drawable" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -1098,7 +1115,11 @@
       <created>1405846746860</created>
       <updated>1405846746860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Wallpaper">
+      <created>1405849778919</created>
+      <updated>1405849778919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1136,10 +1157,10 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258427" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258427" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958813" sideWeight="0.20130932" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3258427" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3964687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1170,7 +1191,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="add LICENSE" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LICENSE" />
+    <MESSAGE value="add Wallpaper" />
+    <MESSAGE value="add Screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Screenshots" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1516,7 +1539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/raw/data.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="38" selection-start="6945" selection-end="6945" vertical-scroll-proportion="0.90716183" vertical-offset="423" max-vertical-offset="1005">
+        <state line="48" column="0" selection-start="6554" selection-end="6554" vertical-scroll-proportion="0.78364116" vertical-offset="423" max-vertical-offset="1005">
           <folding />
         </state>
       </provider>
